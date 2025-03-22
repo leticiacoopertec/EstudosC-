@@ -1,30 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\src\\Estudos\\EstudosC-\\",
+  "WorkspaceRootPath": "C:\\Users\\letic\\source\\repos\\EstudosC-\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F890809E-27E5-427B-B6CE-3DC306B60720}|CrudDapperVideo.csproj|c:\\src\\estudos\\estudosc-\\services\\usuariointerface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F890809E-27E5-427B-B6CE-3DC306B60720}|CrudDapperVideo.csproj|solutionrelative:services\\usuariointerface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F890809E-27E5-427B-B6CE-3DC306B60720}|CrudDapperVideo.csproj|c:\\users\\letic\\source\\repos\\estudosc-\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F890809E-27E5-427B-B6CE-3DC306B60720}|CrudDapperVideo.csproj|solutionrelative:controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F890809E-27E5-427B-B6CE-3DC306B60720}|CrudDapperVideo.csproj|c:\\src\\estudos\\estudosc-\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F890809E-27E5-427B-B6CE-3DC306B60720}|CrudDapperVideo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F890809E-27E5-427B-B6CE-3DC306B60720}|CrudDapperVideo.csproj|c:\\src\\estudos\\estudosc-\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F890809E-27E5-427B-B6CE-3DC306B60720}|CrudDapperVideo.csproj|c:\\users\\letic\\source\\repos\\estudosc-\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F890809E-27E5-427B-B6CE-3DC306B60720}|CrudDapperVideo.csproj|solutionrelative:services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F890809E-27E5-427B-B6CE-3DC306B60720}|CrudDapperVideo.csproj|c:\\src\\estudos\\estudosc-\\controllers\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F890809E-27E5-427B-B6CE-3DC306B60720}|CrudDapperVideo.csproj|solutionrelative:controllers\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F890809E-27E5-427B-B6CE-3DC306B60720}|CrudDapperVideo.csproj|c:\\users\\letic\\source\\repos\\estudosc-\\services\\usuariointerface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F890809E-27E5-427B-B6CE-3DC306B60720}|CrudDapperVideo.csproj|solutionrelative:services\\usuariointerface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F890809E-27E5-427B-B6CE-3DC306B60720}|CrudDapperVideo.csproj|c:\\src\\estudos\\estudosc-\\models\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F890809E-27E5-427B-B6CE-3DC306B60720}|CrudDapperVideo.csproj|solutionrelative:models\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F890809E-27E5-427B-B6CE-3DC306B60720}|CrudDapperVideo.csproj|c:\\users\\letic\\source\\repos\\estudosc-\\dto\\usuarioeditardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F890809E-27E5-427B-B6CE-3DC306B60720}|CrudDapperVideo.csproj|solutionrelative:dto\\usuarioeditardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F890809E-27E5-427B-B6CE-3DC306B60720}|CrudDapperVideo.csproj|c:\\src\\estudos\\estudosc-\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F890809E-27E5-427B-B6CE-3DC306B60720}|CrudDapperVideo.csproj|c:\\users\\letic\\source\\repos\\estudosc-\\dto\\usuariolistardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F890809E-27E5-427B-B6CE-3DC306B60720}|CrudDapperVideo.csproj|solutionrelative:dto\\usuariolistardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F890809E-27E5-427B-B6CE-3DC306B60720}|CrudDapperVideo.csproj|c:\\users\\letic\\source\\repos\\estudosc-\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F890809E-27E5-427B-B6CE-3DC306B60720}|CrudDapperVideo.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F890809E-27E5-427B-B6CE-3DC306B60720}|CrudDapperVideo.csproj|c:\\users\\letic\\source\\repos\\estudosc-\\dto\\usuariocriardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F890809E-27E5-427B-B6CE-3DC306B60720}|CrudDapperVideo.csproj|solutionrelative:dto\\usuariocriardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\letic\\AppData\\Local\\SourceServer\\341b3174c4066be3110ddc25845ccc1449a13956f1cf84a6c79e46073a613c96\\Services\\UsuarioService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,93 +41,111 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\src\\Estudos\\EstudosC-\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\src\\Estudos\\EstudosC-\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T16:07:54.455Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\src\\Estudos\\EstudosC-\\Controllers\\Usuario.cs",
-              "RelativeDocumentMoniker": "Controllers\\Usuario.cs",
-              "ToolTip": "C:\\src\\Estudos\\EstudosC-\\Controllers\\Usuario.cs",
-              "RelativeToolTip": "Controllers\\Usuario.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\letic\\source\\repos\\EstudosC-\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\letic\\source\\repos\\EstudosC-\\Models\\Usuario.cs",
+              "RelativeToolTip": "Models\\Usuario.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wAoAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T16:03:54.131Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UsuarioInterface.cs",
-              "DocumentMoniker": "C:\\src\\Estudos\\EstudosC-\\Services\\UsuarioInterface.cs",
-              "RelativeDocumentMoniker": "Services\\UsuarioInterface.cs",
-              "ToolTip": "C:\\src\\Estudos\\EstudosC-\\Services\\UsuarioInterface.cs",
-              "RelativeToolTip": "Services\\UsuarioInterface.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T16:03:23.161Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UsuarioService.cs",
-              "DocumentMoniker": "C:\\src\\Estudos\\EstudosC-\\Services\\UsuarioService.cs",
-              "RelativeDocumentMoniker": "Services\\UsuarioService.cs",
-              "ToolTip": "C:\\src\\Estudos\\EstudosC-\\Services\\UsuarioService.cs",
-              "RelativeToolTip": "Services\\UsuarioService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T16:03:03.244Z",
+              "WhenOpened": "2025-03-22T16:35:55.732Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ResponseModel.cs",
-              "DocumentMoniker": "C:\\src\\Estudos\\EstudosC-\\Models\\ResponseModel.cs",
-              "RelativeDocumentMoniker": "Models\\ResponseModel.cs",
-              "ToolTip": "C:\\src\\Estudos\\EstudosC-\\Models\\ResponseModel.cs",
-              "RelativeToolTip": "Models\\ResponseModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Title": "UsuarioListarDTO.cs",
+              "DocumentMoniker": "C:\\Users\\letic\\source\\repos\\EstudosC-\\DTO\\UsuarioListarDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\UsuarioListarDTO.cs",
+              "ToolTip": "C:\\Users\\letic\\source\\repos\\EstudosC-\\DTO\\UsuarioListarDTO.cs",
+              "RelativeToolTip": "DTO\\UsuarioListarDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T15:58:02.366Z",
+              "WhenOpened": "2025-03-22T16:35:52.557Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\src\\Estudos\\EstudosC-\\Models\\Usuario.cs",
-              "RelativeDocumentMoniker": "Models\\Usuario.cs",
-              "ToolTip": "C:\\src\\Estudos\\EstudosC-\\Models\\Usuario.cs",
-              "RelativeToolTip": "Models\\Usuario.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAfAAAA",
+              "DocumentIndex": 6,
+              "Title": "UsuarioCriarDTO.cs",
+              "DocumentMoniker": "C:\\Users\\letic\\source\\repos\\EstudosC-\\DTO\\UsuarioCriarDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\UsuarioCriarDTO.cs",
+              "ToolTip": "C:\\Users\\letic\\source\\repos\\EstudosC-\\DTO\\UsuarioCriarDTO.cs",
+              "RelativeToolTip": "DTO\\UsuarioCriarDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T15:53:19.057Z",
+              "WhenOpened": "2025-03-22T16:35:49.844Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\letic\\source\\repos\\EstudosC-\\Services\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "Services\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\letic\\source\\repos\\EstudosC-\\Services\\UsuarioService.cs",
+              "RelativeToolTip": "Services\\UsuarioService.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAvwIcAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T16:16:16.387Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioInterface.cs",
+              "DocumentMoniker": "C:\\Users\\letic\\source\\repos\\EstudosC-\\Services\\UsuarioInterface.cs",
+              "RelativeDocumentMoniker": "Services\\UsuarioInterface.cs",
+              "ToolTip": "C:\\Users\\letic\\source\\repos\\EstudosC-\\Services\\UsuarioInterface.cs",
+              "RelativeToolTip": "Services\\UsuarioInterface.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAhwAsAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T16:15:35.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\letic\\source\\repos\\EstudosC-\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\letic\\source\\repos\\EstudosC-\\Controllers\\UsuarioController.cs*",
+              "RelativeToolTip": "Controllers\\UsuarioController.cs*",
+              "ViewState": "AgIAADAAAAAAAAAAAAAswDkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T16:26:29.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioEditarDTO.cs",
+              "DocumentMoniker": "C:\\Users\\letic\\source\\repos\\EstudosC-\\DTO\\UsuarioEditarDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\UsuarioEditarDTO.cs",
+              "ToolTip": "C:\\Users\\letic\\source\\repos\\EstudosC-\\DTO\\UsuarioEditarDTO.cs",
+              "RelativeToolTip": "DTO\\UsuarioEditarDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T17:12:47.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\letic\\AppData\\Local\\SourceServer\\341b3174c4066be3110ddc25845ccc1449a13956f1cf84a6c79e46073a613c96\\Services\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\SourceServer\\341b3174c4066be3110ddc25845ccc1449a13956f1cf84a6c79e46073a613c96\\Services\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\letic\\AppData\\Local\\SourceServer\\341b3174c4066be3110ddc25845ccc1449a13956f1cf84a6c79e46073a613c96\\Services\\UsuarioService.cs [Somente Leitura]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\SourceServer\\341b3174c4066be3110ddc25845ccc1449a13956f1cf84a6c79e46073a613c96\\Services\\UsuarioService.cs [Somente Leitura]",
+              "ViewState": "AgIAABIAAAAAAAAAAAAwwB0AAAAAAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T16:57:33.122Z",
+              "EditorCaption": " [Somente Leitura]"
             }
           ]
         }

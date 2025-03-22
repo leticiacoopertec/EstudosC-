@@ -1,0 +1,76 @@
+[
+  {
+    "ContainingType": "CrudDapperVideo.Controllers.UsuarioController",
+    "Method": "BuscarUsuarios",
+    "RelativePath": "api/Usuario",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CrudDapperVideo.Controllers.UsuarioController",
+    "Method": "CriarUsuario",
+    "RelativePath": "api/Usuario",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuarioCriarDTO",
+        "Type": "CrudDapperVideo.DTO.UsuarioCriarDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CrudDapperVideo.Controllers.UsuarioController",
+    "Method": "EditarUsuario",
+    "RelativePath": "api/Usuario",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuarioEditarDTO",
+        "Type": "CrudDapperVideo.DTO.UsuarioEditarDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CrudDapperVideo.Controllers.UsuarioController",
+    "Method": "RemoverUsuario",
+    "RelativePath": "api/Usuario",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idUsuario",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CrudDapperVideo.Controllers.UsuarioController",
+    "Method": "BuscarUsusarioPorID",
+    "RelativePath": "api/Usuario/{idUsuario}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idUsuario",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

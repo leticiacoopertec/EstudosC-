@@ -7,6 +7,10 @@ namespace CrudDapperVideo.Services {
 
         //Metodo assincrono
         Task<ResponseModel<List<UsuarioListarDTO>>> BuscarUsuarios();
+        Task<ResponseModel<UsuarioListarDTO>> BuscarUsusarioPorID(int idUsuario);
+        Task<ResponseModel<List<UsuarioListarDTO>>> CriarUsuario(UsuarioCriarDTO usuarioCriarDTO);
+        Task<ResponseModel<List<UsuarioListarDTO>>> EditarUsuario(UsuarioEditarDTO usuarioEditarDTO);
+        Task<ResponseModel<List<UsuarioListarDTO>>> RemoverUsuario(int idUsuario);
     }
 }
  

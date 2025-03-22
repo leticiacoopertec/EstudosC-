@@ -12,6 +12,9 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.AddScoped<IUsuarioInterface, UsuarioService>();
 
+
+builder.Services.AddAutoMapper(typeof(Program));//Aplicando  oautomapper em toda a aplicação
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
